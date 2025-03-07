@@ -1,7 +1,7 @@
 # 🛡️ Password Strength Checker  
 
 
-A **secure** and **modern** password strength checker built with **FastAPI (Python)** for the backend and **HTML, CSS, JavaScript (Node.js)** for the frontend. The UI is inspired by **NordPass Secure Password**.  
+A **secure** and **modern** password strength checker built with **FastAPI (Python)** for the backend and **HTML, CSS, JavaScript (Node.js)** for the frontend.
 
 ## 📌 Features  
 ✅ Real-time password strength analysis  
